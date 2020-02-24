@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "haydee/steam/player/backpack_d"
+	"$bumpmap" "haydee/steam/player/backpack_n"
+}

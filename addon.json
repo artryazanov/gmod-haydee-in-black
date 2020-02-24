@@ -1,0 +1,12 @@
+{
+  "title"	:	"Haydee in Black [P.M]",
+  "type"	:	"model",
+  "tags"	:	["fun", "realism"],
+  "ignore"	:
+  [
+    ".idea/*",
+    ".git/*",
+    ".gitignore",
+    "gmod-haydee-in-black.jpg"
+  ]
+}

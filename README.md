@@ -1,2 +1,2 @@
-# gmod-haydee-in-black
-Haydee in Black Tights for Garry's Mod
+# Haydee in Black
+Haydee model in black tights for Garry's Mod.
